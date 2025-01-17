@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @bhavyasrikodavati
+- 👀 I’m interested in web development, Python programming, and AI/ML technologies.
+- 🌱 I’m currently learning advanced web development, Django, and data structures & algorithms.
+- 💞️ I’m looking to collaborate on web development projects, Python-based applications, and open-source contributions.
+- 📫 How to reach me: LinkedIn:www.linkedin.com/in/bhavya-naga-sri-kodavati-2a276823a | Email: bhavyasrikodavati@gmail.com
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: I love exploring new places and drawing inspiration from different cultures and experiences!
